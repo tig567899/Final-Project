@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1421634208 source:c:\users\awesomeness\documents\my stuff\programs\final project\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<sstream>
+	<string>
+	<ctime>
+	"Car.h"
+	"race.h"
+
+1368294560 c:\users\awesomeness\documents\my stuff\programs\freeglut-mingw-2.8.1-1.mp-1\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\awesomeness\documents\my stuff\programs\freeglut-mingw-2.8.1-1.mp-1\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368294560 c:\users\awesomeness\documents\my stuff\programs\freeglut-mingw-2.8.1-1.mp-1\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 c:\users\awesomeness\documents\my stuff\programs\freeglut-mingw-2.8.1-1.mp-1\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1421633943 source:c:\users\awesomeness\documents\my stuff\programs\final project\car.cpp
+	"Car.h"
+	"cardata.h"
+
+1421633870 c:\users\awesomeness\documents\my stuff\programs\final project\car.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1421633870 c:\users\awesomeness\documents\my stuff\programs\final project\race.h
+	"Car.h"
+	<vector>
+
+1421633870 source:c:\users\awesomeness\documents\my stuff\programs\final project\race.cpp
+	"race.h"
+
+1421615376 c:\users\awesomeness\documents\my stuff\programs\final project\cardata.h
+
+1421615485 source:c:\users\awesomeness\documents\my stuff\programs\final project\cardata.cpp
+	"cardata.h"
+	"Car.h"
+
+1421706253 source:c:\users\tiger\documents\1my stuff\programs\final project\car.cpp
+	"Car.h"
+	"cardata.h"
+
+1421637470 c:\users\tiger\documents\1my stuff\programs\final project\car.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1421618976 c:\users\tiger\documents\1my stuff\programs\final project\cardata.h
+
+1421706253 source:c:\users\tiger\documents\1my stuff\programs\final project\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<sstream>
+	<string>
+	<ctime>
+	"Car.h"
+	"race.h"
+
+1421637470 c:\users\tiger\documents\1my stuff\programs\final project\race.h
+	"Car.h"
+	<vector>
+
+1421637470 source:c:\users\tiger\documents\1my stuff\programs\final project\race.cpp
+	"race.h"
+
